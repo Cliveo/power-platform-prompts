@@ -30,7 +30,8 @@ This project aims to streamline the development and management of Power Platform
    ```
 
 3. **Usage**
-   - Use the provided prompts in the  Dataverse environment connected to git
+   - Browse the available [Prompts](.github/prompts/Prompt.prompt.md) for Dataverse customization
+   - Use the provided prompts in the Dataverse environment connected to git
    - Leverage GitHub Copilot suggestions for customizing components
    - Commit your changes using standard Git workflows
 
