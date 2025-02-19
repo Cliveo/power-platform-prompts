@@ -9,6 +9,10 @@ This project aims to streamline the development and management of Power Platform
 - Providing reusable prompts for common Power Platform development tasks
 - Enabling native Git integration for version control of Power Platform solutions
 
+## Demo
+
+A short video can be seen here showing one of these prompts being used.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Rht-Kjbmz4?si=RY2xczwpCNxITgee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Features
 
