@@ -1,0 +1,12 @@
+WebResource:
+  WebResourceId: '{55a4bea9-aaec-ef11-be20-000d3ad0347e}'
+  Name: co_webResourceName
+  DisplayName: webResourceName
+  WebResourceType: 3
+  IntroducedVersion: 1.0.0.1
+  IsEnabledForMobileClient: 0
+  IsAvailableForMobileOffline: 0
+  IsCustomizable: 1
+  CanBeDeleted: 1
+  IsHidden: 0
+  FileName: /webresources/55a4bea9-aaec-ef11-be20-000d3ad0347e/co_webResourceName55A4BEA9-AAEC-EF11-BE20-000D3AD0347E.js

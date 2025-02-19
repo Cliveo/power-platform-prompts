@@ -1,0 +1,1 @@
+This codebase contains the export of a power platform solution however it's in yml instead of xml.

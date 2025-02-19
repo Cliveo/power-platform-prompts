@@ -1,0 +1,43 @@
+Workflow:
+  '@WorkflowId': '{dc1a19b9-00ed-ef11-be20-000d3ad0347e}'
+  '@Name': Good flow
+  '@Description': >-
+    Trigger: Dataverse
+
+    Entity: Account
+
+    This flow triggers on create of any account, it retrieves all contacts associated with the account and updates the account's description with the count of contacts.
+  JsonFileName: /modernflows/dc1a19b9-00ed-ef11-be20-000d3ad0347e/Goodflow-DC1A19B9-00ED-EF11-BE20-000D3AD0347E.json
+  Type: 1
+  Subprocess: 0
+  Category: 5
+  Mode: 0
+  Scope: 4
+  OnDemand: 0
+  TriggerOnCreate: 0
+  TriggerOnDelete: 0
+  AsyncAutodelete: 0
+  SyncWorkflowLogOnFailure: 0
+  StateCode: 1
+  StatusCode: 2
+  RunAs: 1
+  IsTransacted: 1
+  IntroducedVersion: 1.0.0.1
+  IsCustomizable: 1
+  BusinessProcessType: 0
+  IsCustomProcessingStepAllowedForOtherPublishers: 1
+  ModernFlowType: 0
+  PrimaryEntity: none
+  LocalizedNames:
+    LocalizedName:
+      '@languagecode': 1033
+      '@description': Good flow
+  Descriptions:
+    Description:
+      '@languagecode': 1033
+      '@description': >-
+        Trigger: Dataverse
+
+        Entity: Account
+
+        This flow triggers on create of any account, it retrieves all contacts associated with the account and updates the account's description with the count of contacts.

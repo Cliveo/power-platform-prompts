@@ -1,0 +1,34 @@
+Workflow:
+  '@WorkflowId': '{f867c020-60eb-ef11-be20-000d3ad0347e}'
+  '@Name': HTTP no auth
+  '@Description': This flow triggers using http and calls dataverse to delete a record.
+  JsonFileName: /modernflows/f867c020-60eb-ef11-be20-000d3ad0347e/HTTPnoauth-F867C020-60EB-EF11-BE20-000D3AD0347E.json
+  Type: 1
+  Subprocess: 0
+  Category: 5
+  Mode: 0
+  Scope: 4
+  OnDemand: 0
+  TriggerOnCreate: 0
+  TriggerOnDelete: 0
+  AsyncAutodelete: 0
+  SyncWorkflowLogOnFailure: 0
+  StateCode: 1
+  StatusCode: 2
+  RunAs: 1
+  IsTransacted: 1
+  IntroducedVersion: 1.0.0.1
+  IsCustomizable: 1
+  RendererObjectTypeCode: 0
+  BusinessProcessType: 0
+  IsCustomProcessingStepAllowedForOtherPublishers: 1
+  ModernFlowType: 0
+  PrimaryEntity: none
+  LocalizedNames:
+    LocalizedName:
+      '@languagecode': 1033
+      '@description': HTTP no auth
+  Descriptions:
+    Description:
+      '@languagecode': 1033
+      '@description': This flow triggers using http and calls dataverse to delete a record.
