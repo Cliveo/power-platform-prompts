@@ -12,7 +12,7 @@ This project aims to streamline the development and management of Power Platform
 ## Demo
 
 A short video can be seen here showing one of these prompts being used.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Rht-Kjbmz4?si=RY2xczwpCNxITgee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Demo video](https://i.ytimg.com/vi/7Rht-Kjbmz4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtPsSTs0CfPQ7dNZenXMI-C5f7Xw)](https://youtu.be/7Rht-Kjbmz4?si=hPp1v3AU48iK-hpb)
 
 ## Features
 
